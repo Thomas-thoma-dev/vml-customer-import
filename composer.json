@@ -1,5 +1,5 @@
 {
-  "name": "Thomas-thoma-dev/customer-import",
+  "name": "thomas-thoma-dev/customer-import",
   "description": "Vml Customer Import",
   "require": {
     "php": "~8.2.19",
