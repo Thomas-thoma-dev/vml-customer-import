@@ -5,3 +5,4 @@ Module Install CLI Command: composer require thomas-thoma-dev/customer-import:d
 Media file path :  Extract the attached zip file name customer_import_files.zip into the following Dir =>pub/media/<br/>
 Execute Command for CSV : sudo php bin/magento customer:importcsv<br/>
 Execute Command for Json : sudo php bin/magento customer:importjson<br/>
+Run required magento CLI commands 
